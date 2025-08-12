@@ -1,0 +1,52 @@
+# Obsidian specific
+.obsidian/
+*.log
+log.md
+
+# IDE and editor files
+.vscode/
+.cursor/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Large media files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.wav
+*.mp3
+*.mp4
+*.zip
+*.rar
+*.7z
+
+# Mind map files
+*.mmap
+*.xmind
+*.mindmap
+
+# Workspace files
+*.code-workspace
+
+# Personal notes (если есть)
+*_личное.md
+*_приватное.md
+*_секретное.md

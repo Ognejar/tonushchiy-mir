@@ -1,0 +1,41 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Markdown files
+*.md text eol=lf
+
+# Text files
+*.txt text eol=lf
+
+# Configuration files
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Binary files (should not be tracked)
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.webp binary
+*.wav binary
+*.mp3 binary
+*.mp4 binary
+*.zip binary
+*.rar binary
+*.7z binary
+
+# Mind map files
+*.mmap binary
+*.xmind binary
+*.mindmap binary
+
+# Executables
+*.exe binary
+*.dll binary
+*.so binary
+*.dylib binary
+
+# OS generated files
+.DS_Store binary
+Thumbs.db binary
