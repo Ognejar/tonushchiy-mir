@@ -1,0 +1,34 @@
+[
+  {
+    "id": "основа-epoch",
+    "name": "эпоха ранней Республики",
+    "startYear": 38,
+    "endYear": 500,
+    "description": "Основная эпоха мира",
+    "active": true
+  },
+  {
+    "id": "11111",
+    "name": "111111",
+    "startYear": 0,
+    "endYear": 100,
+    "description": "тест",
+    "active": false
+  },
+  {
+    "id": "трита",
+    "name": "Трита",
+    "startYear": 10,
+    "endYear": 30,
+    "description": "",
+    "active": false
+  },
+  {
+    "id": "Древниймир",
+    "name": "Древний мир",
+    "startYear": -8000,
+    "endYear": -245,
+    "description": "Древний мир",
+    "active": false
+  }
+]

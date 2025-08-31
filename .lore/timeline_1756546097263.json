@@ -1,0 +1,10 @@
+[
+  {
+    "id": "default-epoch",
+    "name": "Основная эпоха",
+    "startYear": 0,
+    "endYear": 1000,
+    "description": "Основная эпоха мира",
+    "active": true
+  }
+]

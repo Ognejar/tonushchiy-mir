@@ -1,19 +1,18 @@
-# Без названия
+# _lore
 
 ## Описание
 
 ## Содержимое
 
 ```folder-overview
-id: 83dad8b2-2a53-440b-afaa-ca2648f85f39
-folderPath: Мои Проекты/Тонущий_мир/Без названия
-title: Без названия
+folderPath: "Мои Проекты/Тонущий_мир/_lore"
+title: "_lore"
 showTitle: false
 depth: 1
-style: list
 includeTypes:
   - folder
   - markdown
+style: list
 disableFileTag: false
 sortBy: name
 sortByAsc: true
@@ -29,6 +28,4 @@ hideLinkList: true
 hideFolderOverview: false
 useActualLinks: false
 fmtpIntegration: false
-titleSize: 1
-isInCallout: false
 ```
