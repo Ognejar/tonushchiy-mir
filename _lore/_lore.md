@@ -5,14 +5,15 @@
 ## Содержимое
 
 ```folder-overview
-folderPath: "Мои Проекты/Тонущий_мир/_lore"
-title: "_lore"
+id: 49e74834-91b3-45bd-b69c-3f5514d5ef41
+folderPath: Мои Проекты/Тонущий_мир/_lore
+title: _lore
 showTitle: false
 depth: 1
+style: list
 includeTypes:
   - folder
   - markdown
-style: list
 disableFileTag: false
 sortBy: name
 sortByAsc: true
@@ -28,4 +29,6 @@ hideLinkList: true
 hideFolderOverview: false
 useActualLinks: false
 fmtpIntegration: false
+titleSize: 1
+isInCallout: false
 ```
