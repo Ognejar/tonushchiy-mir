@@ -1,5 +1,5 @@
 {
-  "projectName": "заявсь",
+  "projectName": "Тонущий_мир",
   "date": "2025-08-11",
   "worldType": "Исторический",
   "genre": "1",
@@ -12,5 +12,8 @@
   "peopleFeatures": "",
   "mainTheme": "",
   "secondaryThemes": "",
-  "description": "3"
+  "description": "3",
+  "monsters": {
+    "types": ["Животное", "Птица", "Рептилия", "Насекомое", "Рыба", "Дух", "Не-мёртвый", "Чудище", "Другое"]
+  }
 }
