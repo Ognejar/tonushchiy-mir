@@ -1,0 +1,36 @@
+
+
+
+# Магические_школы
+
+## Описание
+
+## Содержимое
+
+```folder-overview
+folderPath: "Мои Проекты/Тонущий_мир/Магия/Магические_школы"
+title: "Магические_школы"
+showTitle: false
+depth: 1
+includeTypes:
+  - folder
+  - markdown
+style: list
+disableFileTag: false
+sortBy: name
+sortByAsc: true
+showEmptyFolders: false
+onlyIncludeSubfolders: false
+storeFolderCondition: true
+showFolderNotes: true
+disableCollapseIcon: true
+alwaysCollapse: false
+autoSync: true
+allowDragAndDrop: true
+hideLinkList: true
+hideFolderOverview: false
+useActualLinks: false
+fmtpIntegration: false
+```
+
+

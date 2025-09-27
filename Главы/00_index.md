@@ -6,7 +6,7 @@
 
 ```dataview
 LIST
-FROM "Мои Проекты/Тонущий_мир/Произведения/тест_24-12/Главы"
+FROM "Мои Проекты/Тонущий_мир/Главы"
 WHERE file.name != this.file.name
 SORT file.name ASC
 ```
